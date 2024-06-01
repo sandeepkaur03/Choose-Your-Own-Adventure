@@ -7,3 +7,4 @@ You are an adventurer who has to go on an adventure. You are in the middle of a 
 ### What will you do next?
 
 [Climb a tree to get a better view](tree.md)
+[Explore deeper into the forest](forest.md)
